@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: off
+github:
+  token: CONFIGURE_YOUR_TOKEN
+  api:
+    url: https://api.github.com
